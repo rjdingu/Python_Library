@@ -56,7 +56,7 @@ Used for demonstrating:
 - NumPy
 - Pandas
 - Matplotlib
-- Jupyter Notebook
+- Google Colab Notebook
 
 ## Getting Started
 
